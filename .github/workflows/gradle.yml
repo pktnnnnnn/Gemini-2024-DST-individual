@@ -3,7 +3,7 @@ name: Java CI
 on:
   push:
     branches:
-      - 6587022  
+      - punnatornsup-patch-1  
 
 jobs:
   build:
